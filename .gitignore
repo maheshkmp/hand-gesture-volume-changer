@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+venv310/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS files
+*.DS_Store
+
+# Compiled
+*.exe
+*.dll
+*.obj
+*.o
+
+# Tkinter / image output
+*.png
+*.jpg
+*.jpeg
+
+# Backup files
+*~
+*.bak
+*.tmp
